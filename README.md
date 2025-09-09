@@ -39,6 +39,3 @@ Aqui está uma prévia do dashboard criado no Power BI:
 
 *(adicione uma imagem do gráfico ou dashboard aqui!)*  
 
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
