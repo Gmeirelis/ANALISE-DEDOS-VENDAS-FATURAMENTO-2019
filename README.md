@@ -37,5 +37,4 @@ O objetivo foi praticar **Python para análise de dados**, criar insights de neg
 ## 📊 Dashboard
 Aqui está uma prévia do dashboard criado no Power BI:  
 
-*(adicione uma imagem do gráfico ou dashboard aqui!)*  
 
