@@ -8,7 +8,7 @@ import glob
 arquivos = glob.glob('content/sales_*.csv')
 
 
-#está pegando todos os arquivos CSV que seguem o padrão Sales_*.csv dentro da pasta /content/, 
+# pegando todos os arquivos CSV que seguem o padrão Sales_*.csv dentro da pasta /content/, 
 #lendo cada um deles com o pandas, guardando numa lista e depois juntando tudo em um único DataFrame.
 lista_df = []
 arquivos = glob.glob('/content/Sales_*.csv')
@@ -27,7 +27,7 @@ df_total['Month'] = df_total['Order Date'].dt.month
 
 
 
-#Aqui você está criando mais uma coluna, mas dessa vez com o nome do mês por extenso, em vez do número.
+# criando mais uma coluna, mas dessa vez com o nome do mês por extenso, em vez do número.
 df_total['Month_Name'] = df_total['Order Date'].dt.month_name()
 
 # renomeando as colunas
@@ -48,7 +48,7 @@ df_total.head(5)
 import locale
 
 
-#está contando quantas linhas (pedidos/registros) existem em cada mês:
+#contando quantas linhas (pedidos/registros) existem em cada mês:
 df_total['Mês_nome'].value_counts()
 
 
