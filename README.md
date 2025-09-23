@@ -28,9 +28,9 @@ O objetivo foi praticar **Python para análise de dados**, criar insights de neg
 ---
 
 ## 📈 Principais Insights
-- Produto **X** foi responsável por **Y% do faturamento total**  
-- O mês de **Z** apresentou o maior número de vendas  
-- A região **W** teve crescimento acima da média  
+- Produto **monitor gaming 4k** teve o maior faturamento 
+- O mês de **dezembro** apresentou o maior número de faturamento 
+- faturamento total **$3,45 bi**  
 
 ---
 
